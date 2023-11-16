@@ -6,3 +6,5 @@ shepherd
 dev portal
 oci portal
 ocir
+ansible
+ant
