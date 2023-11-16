@@ -4,3 +4,5 @@ kubernetes
 terraform
 shepherd
 dev portal
+oci portal
+ocir
