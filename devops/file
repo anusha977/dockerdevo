@@ -2,3 +2,5 @@ git
 docker
 kubernetes
 terraform
+shepherd
+dev portal
